@@ -22,6 +22,12 @@
 .error{
   color: red;
 }
+
+.copyright{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 @-webkit-keyframes zoom {
   0% {
     -webkit-transform: scale(1);
