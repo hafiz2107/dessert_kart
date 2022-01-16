@@ -286,10 +286,10 @@
 			// How zoomed in you want the map to start at (always required)
 			zoom: 15,
 			scrollwheel: false,
-			center: new google.maps.LatLng(40.74393298737726, -73.967833),
+			center: new google.maps.LatLng(8.8695476, 76.6395841),
 			styles: [{
 				"stylers": [{
-					"color": "#CDCDCD"
+					"color": "#"
 				}]
 			}, {
 				"featureType": "water",
